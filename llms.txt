@@ -1,0 +1,36 @@
+# Unlocked – Your insider access to digital safety.
+
+Your weekly insider access to the latest breaches, cyber threats, and security tips from the experts at Everykey.
+
+## Breach Reports
+- [The Breach Report](https://unlocked.everykey.com/p/october-recap-the-breach-report): A recap of significant breaches and cyber incidents that occurred in October 2025, providing insights into the evolving threat landscape.
+- [The Breach Report](https://unlocked.everykey.com/p/september-recap-the-breach-report): A summary of September 2025's breaches, highlighting key events and trends in cybersecurity.
+- [The Breach Report](https://unlocked.everykey.com/p/august-recap-the-breach-report): An overview of August 2025's cybersecurity incidents, detailing the most impactful breaches and their implications.
+- [The Breach Report](https://unlocked.everykey.com/p/july-recap-the-breach-report): A recap of July 2025's breaches, focusing on notable incidents and security challenges faced by organizations.
+- [The Breach Report](https://unlocked.everykey.com/p/june-recap-the-breach-report): A summary of June 2025's cybersecurity events, providing insights into the breaches that shaped the month.
+- [The Breach Report](https://unlocked.everykey.com/p/may-recap-the-breach-report): A recap of May 2025's breaches, highlighting significant incidents and their impact on digital security.
+
+## Cybersecurity Training
+- [Cybersecurity Training](https://unlocked.everykey.com/p/cybersecurity-101-training-the-foundation-of-modern-security-awareness): An introductory guide to Cybersecurity 101, outlining the foundational principles of modern security awareness and best practices for individuals and organizations.
+
+## Identity Security
+- [Identity Security](https://unlocked.everykey.com/p/identity-system-the-foundation-of-modern-digital-trust): A detailed exploration of identity systems, emphasizing their role as the foundation of modern digital trust and security.
+
+## Additional Resources
+- [About Everykey](https://everykey.com/): Information about Everykey, its mission, and the services it provides in the realm of digital security.
+- [Sign Up](https://unlocked.everykey.com/subscribe): A call to action for users to register for updates and insights on cybersecurity.
+- [Privacy policy](https://everykey.com/legal/): The privacy policy outlining how Everykey handles user data and privacy concerns.
+- [Powered by beehiiv](https://www.beehiiv.com/?utm_source=Unlocked%20%E2%80%93%20Your%20insider%20access%20to%20digital%20safety.&utm_medium=footer): Acknowledgment of the platform powering the Unlocked newsletter.
+
+## Security Topics
+- [Phishing](https://unlocked.everykey.com/t/Phishing): An informative piece discussing phishing attacks, their methods, and how to protect against them.
+- [Proximity](https://unlocked.everykey.com/t/proximity): A resource detailing proximity-based security threats and measures to mitigate risks.
+- [Passwordless](https://unlocked.everykey.com/t/Passwordless): An exploration of passwordless authentication methods and their benefits for enhancing security.
+- [SIM Swapping](https://unlocked.everykey.com/t/sim-swapping): A discussion on SIM swapping attacks, their implications, and strategies for prevention.
+- [Cybersecurity Awareness](https://unlocked.everykey.com/t/cybersecurity-awareness): A resource aimed at increasing awareness of cybersecurity threats and promoting safe online practices.
+
+## Archive
+- [Archive](https://unlocked.everykey.com/archive): A collection of past issues and articles from the Unlocked newsletter, providing historical context and insights into previous cybersecurity trends. 
+
+## Login
+- [Login | Unlocked – Your insider access to digital safety.](https://unlocked.everykey.com/login): A portal for users to access their accounts and personalized content from the Unlocked newsletter.
